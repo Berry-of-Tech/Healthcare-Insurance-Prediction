@@ -38,7 +38,6 @@ Dataset used: [Medical Cost Personal Dataset](https://www.kaggle.com/mirichoi021
 
 ## Results
 - Model performance metrics (e.g., RMSE, MAE, R2 score).
-- Visualizations of feature importance and prediction vs actual plots.
 
 ## Future Work
 - Implement additional machine learning models.
