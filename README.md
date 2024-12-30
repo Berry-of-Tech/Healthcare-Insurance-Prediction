@@ -7,7 +7,7 @@
 - [Dataset](#dataset)
 - [Results](#results)
 - [Future Work](#future-work)
-- [License](#license)
+
 
 ## Overview
 The **Healthcare Insurance Prediction** project aims to develop a machine learning model to predict insurance charges based on user demographic and medical information. The project focuses on providing an efficient solution for insurance providers to understand customer profiles and set premium rates more accurately.
